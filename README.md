@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- Hi there 👋## -->
 
 <!--
 **LEMPHANE/LEMPHANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 CS Student @ UJ | 🧠 Building clever stuff with code
+🛠️ Currently learning: AI, Unity, and real-world problem-solving
+🚀 Projects > Theory. I like making things work
+🔭 Dreaming up ideas that make people go “wait, you built that?”
+⚡ Looking to collaborate, break things, fix them better, and grow fast
